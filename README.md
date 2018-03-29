@@ -16,8 +16,6 @@
 - http://i2.wp.com/www.equestrianathart.com/wp-content/uploads/2016/11/raw.gif
 - http://icube-icps.unistra.fr/index.php/File:ModernC.pdf
 - http://Mint.com
-- http://mydomain.com/container/12345
-- http://mydomain.com/container/56789
 - http://publications.gbdirect.co.uk/c_book/
 - http://pythontutor.com/
 - http://reut.rs/2HS22g7
