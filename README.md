@@ -2,331 +2,331 @@
 
 - http://apne.ws/mRRqXpC
 - http://astrogrep.sourceforge.net/screenshots/
-http://cdn.oreilly.com/oreilly/booksamplers/9781449320683_sampler.pdf
-http://c-faq.com/
-http://comodo.com
-http://cs50.tv/2017/fall/
-http://csharp-station.com/Tutorial/CSharp/SmartConsoleSetup.aspx
-http://eclecticlight.co/2018/03/19/macos-unified-log-1-why-what-and-how/
-http://georgemauer.net/2017/10/07/csv-injection.html
-http://github.com/trustedsec/unicorn
-http://goalkicker.com/
-http://hackallthethings.com/ocs.php
-http://hackthebox.eu|hackthebox.eu
-http://i2.wp.com/www.equestrianathart.com/wp-content/uploads/2016/11/raw.gif
-http://icube-icps.unistra.fr/index.php/File:ModernC.pdf
-http://Mint.com
-http://mydomain.com/container/12345
-http://mydomain.com/container/56789
-http://publications.gbdirect.co.uk/c_book/
-http://pythontutor.com/
-http://reut.rs/2HS22g7
-http://rwnin.net/?p=35
-https://0x00sec.org/t/linux-shellcoding-part-1-0/289
-https://411hall.github.io/OSCP-Preparation/
-https://adamcaudill.com/2017/10/04/exploiting-jackson-rce-cve-2017-7525/
-https://adapt-and-attack.com/2017/11/15/keying-payloads-for-scripting-languages/amp/
-https://adapt-and-attack.com/2017/12/19/internetexplorer-application-for-c2/
-https://adsecurity.org/?page_id=1821
-https://akijosberryblog.wordpress.com/2018/03/17/active-directory-as-a-c2-command-control/
-https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/amp/
-https://arstechnica.com/cars/2018/03/uber-self-driving-car-hits-and-kills-pedestrian/
-https://arstechnica.com/gadgets/2018/01/meltdown-and-spectre-heres-what-intel-apple-microsoft-others-are-doing-about-it/
-https://asintsov.blogspot.com/2017/12/data-exfiltration-in-metasploit.html
-https://awesomelists.top/
-https://bento.io/topics
-https://bitrot.sh/post/28-11-2017-pupy-websocket-transport/
-https://blog.cobaltstrike.com/2017/10/25/modern-defenses-and-you/
-https://blog.cobaltstrike.com/2018/02/08/in-memory-evasion/
-https://blog.fox-it.com/2017/12/08/detection-and-recovery-of-nsas-covered-up-tracks/
-https://blog.frizk.net/2018/03/total-meltdown.html
-https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
-https://blog.powerdns.com/2018/03/22/the-dns-camel-or-the-rise-in-dns-complexit/
-https://blogs.msmvps.com/acefekay/2011/11/01/active-directory-firewall-ports-let-s-try-to-make-this-simple/
-https://blogs.technet.microsoft.com/secguide/2018/02/13/security-baseline-for-office-2016-and-office-365-proplus-apps-final/
-https://blog.trendmicro.com/trendlabs-security-intelligence/cluster-of-coins-how-machine-learning-detects-cryptocurrency-mining-malware/
-https://blog.xpnsec.com/windows-warbird-privesc/
-https://blog.z.cash/2018-security-audits/
-https://bneg.io/2017/11/06/automated-empire-infrastructure/
-https://boardgamegeek.com/boardgame/16992/tsuro
-https://bohops.com/2018/02/10/vshadow-abusing-the-volume-shadow-service-for-evasion-persistence-and-active-directory-database-extraction/
-https://buff.ly/2Ggl1R6
-https://careers.google.com/jobs#!t=jo&amp;jid=/google/code-reverser-safe-browsing-1253-avenue-mcgill-college-montr%C3%A9al-qc-3688600221&amp;
-https://census-labs.com/news/2017/11/03/an-introduction-to-the-lightbulb-framework/
-https://cgit.drupalcode.org/drupal/commit/?h=8.5.x&amp;id=5ac8738fa69df34a0635f0907d661b509ff9a28f
-https://cloud.google.com/shell/docs/quickstart
-https://cloudplatform.googleblog.com/2018/03/getting-to-know-Cloud-Armor-defense-at-scale-for-internet-facing-services.html
-https://cobbr.io/InsecurePowershell-PowerShell-Without-System-Management-Automation.html?t=1&amp;cn=ZmxleGlibGVfcmVjcw%3D%3D&amp;refsrc=email&amp;iid=b90261018db24f0fa38597c220e55577&amp;fl=4&amp;uid=912859174060609538&amp;nid=244+272699400
-https://coinsecpodcast.com/
-https://community.amd.com/community/amd-corporate/blog/2018/03/21/initial-amd-technical-assessment-of-cts-labs-research
-https://console.cloud.google.com/cloudshell
-https://courses.edx.org/courses/course-v1:GTx+CS1301x+1T2017/course/
-https://cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-7494
-https://cyberpolice.gov.ua/news/kiberpolicziya-vykryla-ukrayinskogo-xakera-u-vzlami-kompyuteriv-svitovyx-bankiv-ta-goteliv-4470/
-https://cyber.wtf/2018/03/28/dissecting-olympic-destroyer-a-walk-through/
-https://decoder.cloud/2018/02/02/getting-system/
-https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/content/
-http://SecDevOps.AI|SecDevOps.AI
-http://seclist.us/category/exploits
-https://enigma0x3.net/2017/11/16/lateral-movement-using-outlooks-createobject-method-and-dotnettojscript/
-https://fossbytes.com/kali-linux-2017-3-features-download-iso-torrent/
-https://gist.github.com/caseysmithrc/4bfdbb09ba231ecf4682b9fde306edfc#file-thing-proj
-https://github.com/0x09AL/go-deliver
-https://github.com/0xbadjuju/Tokenvator
-https://github.com/411Hall/JAWS
-https://github.com/aleksandar-todorovic/awesome-c
-https://github.com/archerysec/archerysec
-https://github.com/Arno0x/DNSExfiltrator
-https://github.com/Arno0x/WSC2
-https://github.com/Arrexel/phpbash
-https://github.com/blog/2470-introducing-security-alerts-on-github
-https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#easy-web-based-phishing
-https://github.com/caffix/amass
-https://github.com/Cn33liz/p0wnedShell
-https://github.com/Coalfire-Research/java-deserialization-exploits
-https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/adversary_attribution
-https://github.com/D4Vinci/Dr0p1t-Framework
-https://github.com/D4Vinci/One-Lin3r
-https://github.com/danielbohannon/Invoke-DOSfuscation
-https://github.com/defcon-russia/shortcut_auto_bind/blob/master/README.md
-https://github.com/defcon-russia/shortcut_auto_bind
-https://github.com/Den1al/pymassdns
-https://github.com/eladshamir/Internal-Monologue
-https://github.com/frizb/OSCP-Survival-Guide/blob/master/README.md
-https://github.com/GDSSecurity/Windows-Exploit-Suggester
-https://github.com/jedisct1/dnscrypt-proxy
-https://github.com/leechristensen/Random/blob/master/CSharp/DisablePSLogging.cs
-https://github.com/mattifestation/PSSysmonTools
-https://github.com/mitre/caldera
-https://github.com/Mr-Un1k0d3r/ThunderShell
-https://github.com/mvillaloboz/open-source-cs-degree
-https://github.com/n1nj4sec/pupy
-https://github.com/nccgroup/redsnarf
-https://github.com/Ne0nd0g/merlin
-https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md
-https://github.com/Nettitude/PoshC2
-https://github.com/nettitude/SharpSocks
-https://github.com/Northern-Lights/yara-parser
-https://github.com/ossu/computer-science
-https://github.com/p3nt4/Invoke-Piper
-https://github.com/p3nt4/Invoke-SocksProxy
-https://github.com/peewpw/Invoke-PSImage
-https://github.com/phoenhex/files/raw/master/slides/unboxing_your_virtualboxes.pdf
-https://github.com/PurLinux/Base
-https://github.com/quozd/awesome-dotnet
-https://github.com/rasta-mouse/Sherlock
-https://github.com/redcanaryco/atomic-red-team?files=1
-https://github.com/rinetd/burpsuite
-https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Privilege%20Escalation%20%26%20Post-Exploitation.md#pivot
-https://github.com/RUB-SysSec/syntia
-https://github.com/sagishahar/lpeworkshop
-https://github.com/SecWiki/windows-kernel-exploits
-https://github.com/swisskyrepo/PayloadsAllTheThings?files=1
-https://github.com/sysdream/hershell
-https://github.com/TheAngryByrd/MiniScaffold/releases/tag/0.8.0
-https://github.com/trustedsec/trevorc2
-https://github.com/vanhauser-thc/afl-pin
-https://github.com/wetw0rk/Sickle
-https://github.com/zerosum0x0/koadic
-https://github.com/zznop/pop-nedry/blob/master/README.md
-https://hackerone.com/reports/300748
-https://hackr.io/tutorials/learn-c-sharp
-https://hakin9.org/online-courses/
-https://holidayhackchallenge.com/2017/
-https://inteltechniques.com/blog/2018/03/06/updated-osint-flowcharts/
-https://isc.sans.edu/forums/diary/Detection+Lab+Visibility+Introspection+for+Defenders/23135/
-https://itunes.apple.com/us/podcast/in-our-time-science/id463701000?mt=2&amp;i=1000097077532
-https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
-https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
-https://join.slack.com/t/851-cpt/shared_invite/enQtMjQ4NTExODkyNTQ0LWIyYjcyY2Q5OGRkZmU3MDlmN2E2ZDQ1NzM5OGYwMmY5YmU2NTEzM2ZlMzNiYjQzYzJlMDgwZDkzZmQxOGJlMDU
-https://just-the-nubyub.slack.com/services/B7AK52ASW|github
-https://karwin.blogspot.com/2012/11/c-pointers-explained-really.html
-https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/
-https://labs.nettitude.com/tutorials/using-frida-to-bypass-snapchats-certificate-pinning/
-https://learnxinyminutes.com/
-https://lief-project.github.io/doc/latest/references.html
-https://magoo.github.io/Blockchain-Graveyard/
-https://media.giphy.com/media/ZlL9U0DNaOdFK/giphy.gif
-https://media.tenor.com/images/bada8bb74c5031a681de6436b562d181/tenor.gif
-https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17
-https://medium.com/handy-tech/analysis-of-a-kubernetes-hack-backdooring-through-kubelet-823be5c3d67c
-https://medium.com/@malcomvetter/friends-dont-let-friends-ceh-b676b4c34cd5
-https://medium.com/@malcomvetter/how-to-pass-a-red-team-interview-9155828cfa1c
-https://medium.com/@malcomvetter/red-team-gut-check-10b5976ffd19
-https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a
-https://medium.com/p/how-to-win-at-ccdc-b355e309a05c
-https://micronicstraining.com/event/security-zero-to-hero/
-https://m.newegg.com/products/N82E16822178993
-https://money.us/2pwJuez
-https://mp.weixin.qq.com/s/ia9nBhmqVEXiiQdFrjzmyg
-https://msdn.microsoft.com/en-us/library/ms536496(VS.85).aspx
-https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
-https://m.youtube.com/watch?v=0A5POQ-0h38
-https://news.ycombinator.com/
-https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx?si=QhZmLxrkSiKSYyE6QCxVjA
-https://pbs.twimg.com/media/DY0cA4OVAAAqqCQ.png
-https://pbs.twimg.com/media/DY0cAgbVAAE0Um4.png
-https://pbs.twimg.com/media/DYsLVE8WAAAV7xk.png
-https://pbs.twimg.com/media/DZEONSPXkAMKMs9.png
-https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/
-https://postmodernsecurity.com/2015/09/11/malware-analysis-and-incident-response-tools-for-the-frugal-and-lazy/
-https://posts.specterops.io/designing-effective-covert-red-team-attack-infrastructure-767d4289af43
-https://publicwww.com/websites/%22greenindex.dynamic-dns.net%2Fjqueryeasyui.js%22/
-https://pwn0rama.com
-https://rastamouse.me/2018/03/a-view-of-persistence/
-https://rastamouse.me/2018/03/laps---part-2/
-https://register.gotowebinar.com/register/8671928861879262467?source=t
-https://rips.tech/ssos-php
-https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/amp/
-https://rootkits.xyz/blog/2017/06/kernel-setting-up/
-https://ruxcon.org.au/assets/2017/slides/bart-RuxCon-Presentation.pptx
-https://samsclass.info/127/127_S18.shtml
-https://sanantoniocodingacademy.com/
-https://schocken8.wixsite.com/visualcomputer
-https://secdevops.ai/tagged/programming
-https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/
-https://sketchproducts.blogspot.com/2017/11/17-year-old-ms-office-flaw-lets-hackers.html?m=1
-https://specterops.io/how-we-help/training-offerings
-https://sqlwiki.netspi.com/
-https://stackify.com/learn-c-sharp-tutorials/
-https://strawpoll.com/34fa6bzp
-https://superuser.com/questions/1134368/create-permanent-doskey-in-windows-cmd/1134468
-https://symeonp.github.io/2017/09/17/fuzzing-winafl.html
-https://t.co/2ZrD2krSQF
-https://t.co/4Hcos1Hjyc
-https://t.co/7XGeY4lMh1
-https://t.co/8cxzB5unvH
-https://t.co/8Dj4iYiOtK
-https://t.co/c1RgGyDXia
-https://t.co/dy4yrpjR4A
-https://t.co/edl4oVUCtj
-https://t.co/F2xMMklqRS
-https://t.co/FHBaBliV5O
-https://t.co/fjVdGAVnBU
-https://t.co/fKRGoUpFVx
-https://t.co/GKjX1YKvD6
-https://t.co/gKuMiMJbFf
-https://t.co/hh28tQHt6f
-https://t.co/IBVTG3iwju
-https://t.co/Jzq858zxrj
-https://t.co/k92QGX62K7
-https://t.co/kFau96EuVv
-https://t.co/KGjurIm63J
-https://t.co/l0DW9Rlfyg
-https://t.co/ncbrknSx40
-https://t.co/ng2SWgeMcG
-https://t.co/nKM0wv2Ipa
-https://t.co/OMr4VJ0lFd
-https://t.co/oZwecBZdhq
-https://t.co/p3PProNL1N
-https://t.co/p4HXJZ4Tus
-https://t.co/PUKI6B2AIm
-https://t.co/PxRxULQOus
-https://t.co/pzjFBlXz2k
-https://t.co/Q0dN9TDZ2P
-https://t.co/q4pUxbZ1sg
-https://t.co/qh853PUuOM
-https://t.co/QvV1vwFkHF
-https://t.co/rl30Zu64f9
-https://t.co/Rs1cNMgDEB
-https://t.co/rWRsqZZNyo
-https://t.co/syus7kOWJw
-https://t.co/tbc5C8516l
-https://t.co/vfsp0Y485x
-https://t.co/VSs7pBiz7B
-https://t.co/X99ttkvGow
-https://t.co/XgRe11L97N
-https://t.co/XtOzda0G8u
-https://t.co/zn8J3dfXx1
-https://technet.microsoft.com/en-us/library/2006.01.utilityspotlight.aspx
-https://toddcullumresearch.com/2017/07/16/portable-executable-file-corruption/
-https://tools.ietf.org/html/draft-ietf-tls-tls13-28
-https://twofactorauth.org/
-https://vergecurrency.com
-https://viql.github.io/dridex/
-https://voidsec.com/vpn-leak/
-https://workplus.splunk.com/veterans
-https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
-https://www.amazon.com/gp/product/0131103628
-https://www.blackhat.com/docs/eu-17/materials/eu-17-Arnaboldi-Exposing-Hidden-Exploitable-Behaviors-In-Programming-Languages-Using-Differential-Fuzzing-wp.pdf
-https://www.blackhillsinfosec.com/how-to-build-a-command-control-infrastructure-with-digital-ocean-c2k-revamped/
-https://www.blackhillsinfosec.com/passphrases-for-tiny-people/
-https://www.blackhillsinfosec.com/three-simple-disguises-for-evading-antivirus/
-https://www.blackhillsinfosec.com/webcast-cubicles-compromises/
-https://www.botconf.eu/wp-content/uploads/2016/11/PR12-Sysmon-UELTSCHI.pdf
-https://www.cnbc.com/2018/03/14/former-equifax-executive-charged-with-insider-trading-ahead-of-data-breach.html
-https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/
-https://www.cybereason.com/blog/new-lateral-movement-techniques-abuse-dcom-technology
-https://www.cylance.com/en_us/blog/antivirus-testing-for-real-world-failure.html
-https://www.darkreading.com/attacks-breaches/boundhook-technique-enables-attacker-persistence-on-windows-systems/d/d-id/1330174?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=57571589&amp;_hsenc=p2ANqtz-9XAtvCQeEIuLzan_-N7cvg_Y8diz7yAAC2yTa9_1Hfjb15Hqs_P04Bg99AQI2nh5Sjls39VifKdsJJZa25B6ODbmQLiA&amp;_hsmi=57571589
-https://www.drupal.org/sa-core-2018-002
-https://www.elearnsecurity.com/resources/webinars/thp_launch?utm_source=SilverpopMailing&amp;utm_medium=email&amp;utm_campaign=THP%20Launch%20Invite%20mail%201%20(1)&amp;utm_content=&amp;spMailingID=31927928&amp;spUserID=NjY4ODEzNjk1OTk0S0&amp;spJobID=1180085161&amp;spReportId=MTE4MDA4NTE2MQS2
-https://www.exploit-db.com/exploits/42060/
-https://www.exploit-db.com/exploits/42084/
-https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/dosfuscation-report.pdf
-https://www.google.com/search?q=tinder+for+workout+buddies&amp;oq=tinder+for+workout&amp;aqs=chrome.0.0j69i57j0.6111j0j7&amp;sourceid=chrome&amp;ie=UTF-8
-https://www.hackthebox.eu/invite
-https://www.helpnetsecurity.com/2018/03/22/cryptocurrency-theft-web-injects/
-https://www.humblebundle.com/books/diy-electronics-books
-https://www.imperialviolet.org/2018/03/27/webauthn.html
-https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/
-https://www.jimwilbur.com/2017/07/oscp-review/
-https://www.lightbluetouchpaper.org/2018/03/26/tracing-stolen-bitcoin/
-https://www.malwaretech.com/2018/03/best-programming-languages-to-learn-for-malware-analysis.html
-https://www.mpgh.net/forum/showthread.php?t=1126167
-https://www.nccgroup.trust/us/our-research/tpm-genie-interposer-attacks-against-the-trusted-platform-module-serial-bus/?style=Cyber+Security
-https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Main
-https://www.packtpub.com/video
-https://www.passwordping.com/surprising-new-password-guidelines-nist/
-https://www.peew.pw/blog/2017/11/24/an-introduction-to-writing-net-executables-for-pentesters
-https://www.proofpoint.com/us/threat-insight/post/unraveling-ThreadKit-new-document-exploit-builder-distribute-The-Trick-Formbook-Loki-Bot-malware
-https://www.ptsecurity.com/upload/corporate/ww-en/analytics/Where-theres-a-JTAG-theres-a-way.pdf
-https://www.qubes-os.org/news/2018/03/28/qubes-40/
-https://www.reddit.com/r/C_Programming/
-https://www.reddit.com/r/HowToHack/comments/2c8d1p/free_online_ethical_hacking_courses/
-https://www.reddit.com/r/learnprogramming/comments/18it9q/best_place_to_learn_c/
-https://www.reddit.com/r/netsec/comments/7e4i97/microsoft_releases_windows_10_development/
-https://www.reuters.com/article/us-orbitz-cyber/expedias-orbitz-says-880000-payment-cards-hit-by-security-breach-idUSKBN1GW23V
-https://www.root-me.org/en/Challenges/
-https://www.samba.org/samba/security/CVE-2018-1057.html
-https://www.slideshare.net/snyff/jwt-insecurity
-https://www.tarlogic.com/en/blog/red-team-tales-0x01/
-https://www.thedailybeast.com/exclusive-lone-dnc-hacker-guccifer-20-slipped-up-and-revealed-he-was-a-russian-intelligence-officer
-https://www.theguardian.com/technology/2018/mar/20/child-abuse-imagery-bitcoin-blockchain-illegal-content
-https://www.trustedsec.com/2018/02/public-release-hate_crack-automated-hash-cracking-techniques-hashcat/
-https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/pan
-https://www.wildwesthackinfest.com/tickets/
-https://www.youtube.com/watch?v=2-qHo7YT4w8
-https://www.youtube.com/watch?v=4RL-m4qRtPU
-https://www.youtube.com/watch?v=dCU7N-Oh3jg
-https://www.youtube.com/watch?v=-h0IpjnByfs
-https://www.youtube.com/watch?v=jlc7Ahp8Iqg
-https://www.youtube.com/watch?v=OMOGaugKpzs
-https://youtu.be/1wak8iBWIJI
-https://youtu.be/cc1tX1t_bLg
-https://youtu.be/GCTyFp0PpHE
-https://youtu.be/H0oF3fAiqI4
-https://youtu.be/l6GjU8fm8sM
-https://youtu.be/lQegMA_kY9Y
-https://youtu.be/ujmtS7X2F9A
-https://youtu.be/xGZ0X5eA2IA
-http://sys.stdin.read
-http://System.IO|System.IO
-http://the.earth.li/~sgtatham/putty/0.53b/htmldoc/Chapter3.html
-http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/
-http://threat.tevora.com/lay-of-the-land-with-bloodhound/amp/
-http://toi.in/pCn7ub
-http://tonemaker.py
-http://turbochaos.blogspot.com/2013/09/linux-rootkits-101-1-of-3.html
-http://www.amanhardikar.com/mindmaps/Practice.html
-http://www.baltimoresun.com/news/maryland/crime/bs-md-ci-911-hacked-20180327-story.html
-http://www.blackroomsec.com/updated-hacking-challenge-site-links/
-http://www.blackwasp.co.uk/Articles.aspx
-http://www.danielbohannon.com/blog-1/2017/12/2/the-invoke-cradlecrafter-overview?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=85c97931a698418fb2b015e28ebb0f27&amp;fl=4&amp;uid=912859174060609538&amp;nid=244+272699400
-http://www.hackingarticles.in/penetration-testing/
-http://www.irongeek.com/i.php?page=videos/grrcon2017/ghast07-morphing-to-legitimate-behavior-attack-patterns-dave-kennedy
-http://www.py2exe.org/index.cgi/Tutorial
-http://www.reddit.com/r/outside|www.reddit.com/r/outside
-http://www.righto.com/2018/03/reading-vga-monitors-configuration-data.html
-http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/
-http://yalu.qwertyoruiop.com/y7.txt
+- http://cdn.oreilly.com/oreilly/booksamplers/9781449320683_sampler.pdf
+- http://c-faq.com/
+- http://comodo.com
+- http://cs50.tv/2017/fall/
+- http://csharp-station.com/Tutorial/CSharp/SmartConsoleSetup.aspx
+- http://eclecticlight.co/2018/03/19/macos-unified-log-1-why-what-and-how/
+- http://georgemauer.net/2017/10/07/csv-injection.html
+- http://github.com/trustedsec/unicorn
+- http://goalkicker.com/
+- http://hackallthethings.com/ocs.php
+- http://hackthebox.eu|hackthebox.eu
+- http://i2.wp.com/www.equestrianathart.com/wp-content/uploads/2016/11/raw.gif
+- http://icube-icps.unistra.fr/index.php/File:ModernC.pdf
+- http://Mint.com
+- http://mydomain.com/container/12345
+- http://mydomain.com/container/56789
+- http://publications.gbdirect.co.uk/c_book/
+- http://pythontutor.com/
+- http://reut.rs/2HS22g7
+- http://rwnin.net/?p=35
+- https://0x00sec.org/t/linux-shellcoding-part-1-0/289
+- https://411hall.github.io/OSCP-Preparation/
+- https://adamcaudill.com/2017/10/04/exploiting-jackson-rce-cve-2017-7525/
+- https://adapt-and-attack.com/2017/11/15/keying-payloads-for-scripting-languages/amp/
+- https://adapt-and-attack.com/2017/12/19/internetexplorer-application-for-c2/
+- https://adsecurity.org/?page_id=1821
+- https://akijosberryblog.wordpress.com/2018/03/17/active-directory-as-a-c2-command-control/
+- https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/amp/
+- https://arstechnica.com/cars/2018/03/uber-self-driving-car-hits-and-kills-pedestrian/
+- https://arstechnica.com/gadgets/2018/01/meltdown-and-spectre-heres-what-intel-apple-microsoft-others-are-doing-about-it/
+- https://asintsov.blogspot.com/2017/12/data-exfiltration-in-metasploit.html
+- https://awesomelists.top/
+- https://bento.io/topics
+- https://bitrot.sh/post/28-11-2017-pupy-websocket-transport/
+- https://blog.cobaltstrike.com/2017/10/25/modern-defenses-and-you/
+- https://blog.cobaltstrike.com/2018/02/08/in-memory-evasion/
+- https://blog.fox-it.com/2017/12/08/detection-and-recovery-of-nsas-covered-up-tracks/
+- https://blog.frizk.net/2018/03/total-meltdown.html
+- https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+- https://blog.powerdns.com/2018/03/22/the-dns-camel-or-the-rise-in-dns-complexit/
+- https://blogs.msmvps.com/acefekay/2011/11/01/active-directory-firewall-ports-let-s-try-to-make-this-simple/
+- https://blogs.technet.microsoft.com/secguide/2018/02/13/security-baseline-for-office-2016-and-office-365-proplus-apps-final/
+- https://blog.trendmicro.com/trendlabs-security-intelligence/cluster-of-coins-how-machine-learning-detects-cryptocurrency-mining-malware/
+- https://blog.xpnsec.com/windows-warbird-privesc/
+- https://blog.z.cash/2018-security-audits/
+- https://bneg.io/2017/11/06/automated-empire-infrastructure/
+- https://boardgamegeek.com/boardgame/16992/tsuro
+- https://bohops.com/2018/02/10/vshadow-abusing-the-volume-shadow-service-for-evasion-persistence-and-active-directory-database-extraction/
+- https://buff.ly/2Ggl1R6
+- https://careers.google.com/jobs#!t=jo&amp;jid=/google/code-reverser-safe-browsing-1253-avenue-mcgill-college-montr%C3%A9al-qc-3688600221&amp;
+- https://census-labs.com/news/2017/11/03/an-introduction-to-the-lightbulb-framework/
+- https://cgit.drupalcode.org/drupal/commit/?h=8.5.x&amp;id=5ac8738fa69df34a0635f0907d661b509ff9a28f
+- https://cloud.google.com/shell/docs/quickstart
+- https://cloudplatform.googleblog.com/2018/03/getting-to-know-Cloud-Armor-defense-at-scale-for-internet-facing-services.html
+- https://cobbr.io/InsecurePowershell-PowerShell-Without-System-Management-Automation.html?t=1&amp;cn=ZmxleGlibGVfcmVjcw%3D%3D&amp;refsrc=email&amp;iid=b90261018db24f0fa38597c220e55577&amp;fl=4&amp;uid=912859174060609538&amp;nid=244+272699400
+- https://coinsecpodcast.com/
+- https://community.amd.com/community/amd-corporate/blog/2018/03/21/initial-amd-technical-assessment-of-cts-labs-research
+- https://console.cloud.google.com/cloudshell
+- https://courses.edx.org/courses/course-v1:GTx+CS1301x+1T2017/course/
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-7494
+- https://cyberpolice.gov.ua/news/kiberpolicziya-vykryla-ukrayinskogo-xakera-u-vzlami-kompyuteriv-svitovyx-bankiv-ta-goteliv-4470/
+- https://cyber.wtf/2018/03/28/dissecting-olympic-destroyer-a-walk-through/
+- https://decoder.cloud/2018/02/02/getting-system/
+- https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/content/
+- http://SecDevOps.AI|SecDevOps.AI
+- http://seclist.us/category/exploits
+- https://enigma0x3.net/2017/11/16/lateral-movement-using-outlooks-createobject-method-and-dotnettojscript/
+- https://fossbytes.com/kali-linux-2017-3-features-download-iso-torrent/
+- https://gist.github.com/caseysmithrc/4bfdbb09ba231ecf4682b9fde306edfc#file-thing-proj
+- https://github.com/0x09AL/go-deliver
+- https://github.com/0xbadjuju/Tokenvator
+- https://github.com/411Hall/JAWS
+- https://github.com/aleksandar-todorovic/awesome-c
+- https://github.com/archerysec/archerysec
+- https://github.com/Arno0x/DNSExfiltrator
+- https://github.com/Arno0x/WSC2
+- https://github.com/Arrexel/phpbash
+- https://github.com/blog/2470-introducing-security-alerts-on-github
+- https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#easy-web-based-phishing
+- https://github.com/caffix/amass
+- https://github.com/Cn33liz/p0wnedShell
+- https://github.com/Coalfire-Research/java-deserialization-exploits
+- https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/adversary_attribution
+- https://github.com/D4Vinci/Dr0p1t-Framework
+- https://github.com/D4Vinci/One-Lin3r
+- https://github.com/danielbohannon/Invoke-DOSfuscation
+- https://github.com/defcon-russia/shortcut_auto_bind/blob/master/README.md
+- https://github.com/defcon-russia/shortcut_auto_bind
+- https://github.com/Den1al/pymassdns
+- https://github.com/eladshamir/Internal-Monologue
+- https://github.com/frizb/OSCP-Survival-Guide/blob/master/README.md
+- https://github.com/GDSSecurity/Windows-Exploit-Suggester
+- https://github.com/jedisct1/dnscrypt-proxy
+- https://github.com/leechristensen/Random/blob/master/CSharp/DisablePSLogging.cs
+- https://github.com/mattifestation/PSSysmonTools
+- https://github.com/mitre/caldera
+- https://github.com/Mr-Un1k0d3r/ThunderShell
+- https://github.com/mvillaloboz/open-source-cs-degree
+- https://github.com/n1nj4sec/pupy
+- https://github.com/nccgroup/redsnarf
+- https://github.com/Ne0nd0g/merlin
+- https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md
+- https://github.com/Nettitude/PoshC2
+- https://github.com/nettitude/SharpSocks
+- https://github.com/Northern-Lights/yara-parser
+- https://github.com/ossu/computer-science
+- https://github.com/p3nt4/Invoke-Piper
+- https://github.com/p3nt4/Invoke-SocksProxy
+- https://github.com/peewpw/Invoke-PSImage
+- https://github.com/phoenhex/files/raw/master/slides/unboxing_your_virtualboxes.pdf
+- https://github.com/PurLinux/Base
+- https://github.com/quozd/awesome-dotnet
+- https://github.com/rasta-mouse/Sherlock
+- https://github.com/redcanaryco/atomic-red-team?files=1
+- https://github.com/rinetd/burpsuite
+- https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Privilege%20Escalation%20%26%20Post-Exploitation.md#pivot
+- https://github.com/RUB-SysSec/syntia
+- https://github.com/sagishahar/lpeworkshop
+- https://github.com/SecWiki/windows-kernel-exploits
+- https://github.com/swisskyrepo/PayloadsAllTheThings?files=1
+- https://github.com/sysdream/hershell
+- https://github.com/TheAngryByrd/MiniScaffold/releases/tag/0.8.0
+- https://github.com/trustedsec/trevorc2
+- https://github.com/vanhauser-thc/afl-pin
+- https://github.com/wetw0rk/Sickle
+- https://github.com/zerosum0x0/koadic
+- https://github.com/zznop/pop-nedry/blob/master/README.md
+- https://hackerone.com/reports/300748
+- https://hackr.io/tutorials/learn-c-sharp
+- https://hakin9.org/online-courses/
+- https://holidayhackchallenge.com/2017/
+- https://inteltechniques.com/blog/2018/03/06/updated-osint-flowcharts/
+- https://isc.sans.edu/forums/diary/Detection+Lab+Visibility+Introspection+for+Defenders/23135/
+- https://itunes.apple.com/us/podcast/in-our-time-science/id463701000?mt=2&amp;i=1000097077532
+- https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
+- https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
+- https://join.slack.com/t/851-cpt/shared_invite/enQtMjQ4NTExODkyNTQ0LWIyYjcyY2Q5OGRkZmU3MDlmN2E2ZDQ1NzM5OGYwMmY5YmU2NTEzM2ZlMzNiYjQzYzJlMDgwZDkzZmQxOGJlMDU
+- https://just-the-nubyub.slack.com/services/B7AK52ASW|github
+- https://karwin.blogspot.com/2012/11/c-pointers-explained-really.html
+- https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/
+- https://labs.nettitude.com/tutorials/using-frida-to-bypass-snapchats-certificate-pinning/
+- https://learnxinyminutes.com/
+- https://lief-project.github.io/doc/latest/references.html
+- https://magoo.github.io/Blockchain-Graveyard/
+- https://media.giphy.com/media/ZlL9U0DNaOdFK/giphy.gif
+- https://media.tenor.com/images/bada8bb74c5031a681de6436b562d181/tenor.gif
+- https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17
+- https://medium.com/handy-tech/analysis-of-a-kubernetes-hack-backdooring-through-kubelet-823be5c3d67c
+- https://medium.com/@malcomvetter/friends-dont-let-friends-ceh-b676b4c34cd5
+- https://medium.com/@malcomvetter/how-to-pass-a-red-team-interview-9155828cfa1c
+- https://medium.com/@malcomvetter/red-team-gut-check-10b5976ffd19
+- https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a
+- https://medium.com/p/how-to-win-at-ccdc-b355e309a05c
+- https://micronicstraining.com/event/security-zero-to-hero/
+- https://m.newegg.com/products/N82E16822178993
+- https://money.us/2pwJuez
+- https://mp.weixin.qq.com/s/ia9nBhmqVEXiiQdFrjzmyg
+- https://msdn.microsoft.com/en-us/library/ms536496(VS.85).aspx
+- https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+- https://m.youtube.com/watch?v=0A5POQ-0h38
+- https://news.ycombinator.com/
+- https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx?si=QhZmLxrkSiKSYyE6QCxVjA
+- https://pbs.twimg.com/media/DY0cA4OVAAAqqCQ.png
+- https://pbs.twimg.com/media/DY0cAgbVAAE0Um4.png
+- https://pbs.twimg.com/media/DYsLVE8WAAAV7xk.png
+- https://pbs.twimg.com/media/DZEONSPXkAMKMs9.png
+- https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/
+- https://postmodernsecurity.com/2015/09/11/malware-analysis-and-incident-response-tools-for-the-frugal-and-lazy/
+- https://posts.specterops.io/designing-effective-covert-red-team-attack-infrastructure-767d4289af43
+- https://publicwww.com/websites/%22greenindex.dynamic-dns.net%2Fjqueryeasyui.js%22/
+- https://pwn0rama.com
+- https://rastamouse.me/2018/03/a-view-of-persistence/
+- https://rastamouse.me/2018/03/laps---part-2/
+- https://register.gotowebinar.com/register/8671928861879262467?source=t
+- https://rips.tech/ssos-php
+- https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/amp/
+- https://rootkits.xyz/blog/2017/06/kernel-setting-up/
+- https://ruxcon.org.au/assets/2017/slides/bart-RuxCon-Presentation.pptx
+- https://samsclass.info/127/127_S18.shtml
+- https://sanantoniocodingacademy.com/
+- https://schocken8.wixsite.com/visualcomputer
+- https://secdevops.ai/tagged/programming
+- https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/
+- https://sketchproducts.blogspot.com/2017/11/17-year-old-ms-office-flaw-lets-hackers.html?m=1
+- https://specterops.io/how-we-help/training-offerings
+- https://sqlwiki.netspi.com/
+- https://stackify.com/learn-c-sharp-tutorials/
+- https://strawpoll.com/34fa6bzp
+- https://superuser.com/questions/1134368/create-permanent-doskey-in-windows-cmd/1134468
+- https://symeonp.github.io/2017/09/17/fuzzing-winafl.html
+- https://t.co/2ZrD2krSQF
+- https://t.co/4Hcos1Hjyc
+- https://t.co/7XGeY4lMh1
+- https://t.co/8cxzB5unvH
+- https://t.co/8Dj4iYiOtK
+- https://t.co/c1RgGyDXia
+- https://t.co/dy4yrpjR4A
+- https://t.co/edl4oVUCtj
+- https://t.co/F2xMMklqRS
+- https://t.co/FHBaBliV5O
+- https://t.co/fjVdGAVnBU
+- https://t.co/fKRGoUpFVx
+- https://t.co/GKjX1YKvD6
+- https://t.co/gKuMiMJbFf
+- https://t.co/hh28tQHt6f
+- https://t.co/IBVTG3iwju
+- https://t.co/Jzq858zxrj
+- https://t.co/k92QGX62K7
+- https://t.co/kFau96EuVv
+- https://t.co/KGjurIm63J
+- https://t.co/l0DW9Rlfyg
+- https://t.co/ncbrknSx40
+- https://t.co/ng2SWgeMcG
+- https://t.co/nKM0wv2Ipa
+- https://t.co/OMr4VJ0lFd
+- https://t.co/oZwecBZdhq
+- https://t.co/p3PProNL1N
+- https://t.co/p4HXJZ4Tus
+- https://t.co/PUKI6B2AIm
+- https://t.co/PxRxULQOus
+- https://t.co/pzjFBlXz2k
+- https://t.co/Q0dN9TDZ2P
+- https://t.co/q4pUxbZ1sg
+- https://t.co/qh853PUuOM
+- https://t.co/QvV1vwFkHF
+- https://t.co/rl30Zu64f9
+- https://t.co/Rs1cNMgDEB
+- https://t.co/rWRsqZZNyo
+- https://t.co/syus7kOWJw
+- https://t.co/tbc5C8516l
+- https://t.co/vfsp0Y485x
+- https://t.co/VSs7pBiz7B
+- https://t.co/X99ttkvGow
+- https://t.co/XgRe11L97N
+- https://t.co/XtOzda0G8u
+- https://t.co/zn8J3dfXx1
+- https://technet.microsoft.com/en-us/library/2006.01.utilityspotlight.aspx
+- https://toddcullumresearch.com/2017/07/16/portable-executable-file-corruption/
+- https://tools.ietf.org/html/draft-ietf-tls-tls13-28
+- https://twofactorauth.org/
+- https://vergecurrency.com
+- https://viql.github.io/dridex/
+- https://voidsec.com/vpn-leak/
+- https://workplus.splunk.com/veterans
+- https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
+- https://www.amazon.com/gp/product/0131103628
+- https://www.blackhat.com/docs/eu-17/materials/eu-17-Arnaboldi-Exposing-Hidden-Exploitable-Behaviors-In-Programming-Languages-Using-Differential-Fuzzing-wp.pdf
+- https://www.blackhillsinfosec.com/how-to-build-a-command-control-infrastructure-with-digital-ocean-c2k-revamped/
+- https://www.blackhillsinfosec.com/passphrases-for-tiny-people/
+- https://www.blackhillsinfosec.com/three-simple-disguises-for-evading-antivirus/
+- https://www.blackhillsinfosec.com/webcast-cubicles-compromises/
+- https://www.botconf.eu/wp-content/uploads/2016/11/PR12-Sysmon-UELTSCHI.pdf
+- https://www.cnbc.com/2018/03/14/former-equifax-executive-charged-with-insider-trading-ahead-of-data-breach.html
+- https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/
+- https://www.cybereason.com/blog/new-lateral-movement-techniques-abuse-dcom-technology
+- https://www.cylance.com/en_us/blog/antivirus-testing-for-real-world-failure.html
+- https://www.darkreading.com/attacks-breaches/boundhook-technique-enables-attacker-persistence-on-windows-systems/d/d-id/1330174?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=57571589&amp;_hsenc=p2ANqtz-9XAtvCQeEIuLzan_-N7cvg_Y8diz7yAAC2yTa9_1Hfjb15Hqs_P04Bg99AQI2nh5Sjls39VifKdsJJZa25B6ODbmQLiA&amp;_hsmi=57571589
+- https://www.drupal.org/sa-core-2018-002
+- https://www.elearnsecurity.com/resources/webinars/thp_launch?utm_source=SilverpopMailing&amp;utm_medium=email&amp;utm_campaign=THP%20Launch%20Invite%20mail%201%20(1)&amp;utm_content=&amp;spMailingID=31927928&amp;spUserID=NjY4ODEzNjk1OTk0S0&amp;spJobID=1180085161&amp;spReportId=MTE4MDA4NTE2MQS2
+- https://www.exploit-db.com/exploits/42060/
+- https://www.exploit-db.com/exploits/42084/
+- https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/dosfuscation-report.pdf
+- https://www.google.com/search?q=tinder+for+workout+buddies&amp;oq=tinder+for+workout&amp;aqs=chrome.0.0j69i57j0.6111j0j7&amp;sourceid=chrome&amp;ie=UTF-8
+- https://www.hackthebox.eu/invite
+- https://www.helpnetsecurity.com/2018/03/22/cryptocurrency-theft-web-injects/
+- https://www.humblebundle.com/books/diy-electronics-books
+- https://www.imperialviolet.org/2018/03/27/webauthn.html
+- https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/
+- https://www.jimwilbur.com/2017/07/oscp-review/
+- https://www.lightbluetouchpaper.org/2018/03/26/tracing-stolen-bitcoin/
+- https://www.malwaretech.com/2018/03/best-programming-languages-to-learn-for-malware-analysis.html
+- https://www.mpgh.net/forum/showthread.php?t=1126167
+- https://www.nccgroup.trust/us/our-research/tpm-genie-interposer-attacks-against-the-trusted-platform-module-serial-bus/?style=Cyber+Security
+- https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Main
+- https://www.packtpub.com/video
+- https://www.passwordping.com/surprising-new-password-guidelines-nist/
+- https://www.peew.pw/blog/2017/11/24/an-introduction-to-writing-net-executables-for-pentesters
+- https://www.proofpoint.com/us/threat-insight/post/unraveling-ThreadKit-new-document-exploit-builder-distribute-The-Trick-Formbook-Loki-Bot-malware
+- https://www.ptsecurity.com/upload/corporate/ww-en/analytics/Where-theres-a-JTAG-theres-a-way.pdf
+- https://www.qubes-os.org/news/2018/03/28/qubes-40/
+- https://www.reddit.com/r/C_Programming/
+- https://www.reddit.com/r/HowToHack/comments/2c8d1p/free_online_ethical_hacking_courses/
+- https://www.reddit.com/r/learnprogramming/comments/18it9q/best_place_to_learn_c/
+- https://www.reddit.com/r/netsec/comments/7e4i97/microsoft_releases_windows_10_development/
+- https://www.reuters.com/article/us-orbitz-cyber/expedias-orbitz-says-880000-payment-cards-hit-by-security-breach-idUSKBN1GW23V
+- https://www.root-me.org/en/Challenges/
+- https://www.samba.org/samba/security/CVE-2018-1057.html
+- https://www.slideshare.net/snyff/jwt-insecurity
+- https://www.tarlogic.com/en/blog/red-team-tales-0x01/
+- https://www.thedailybeast.com/exclusive-lone-dnc-hacker-guccifer-20-slipped-up-and-revealed-he-was-a-russian-intelligence-officer
+- https://www.theguardian.com/technology/2018/mar/20/child-abuse-imagery-bitcoin-blockchain-illegal-content
+- https://www.trustedsec.com/2018/02/public-release-hate_crack-automated-hash-cracking-techniques-hashcat/
+- https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/pan
+- https://www.wildwesthackinfest.com/tickets/
+- https://www.youtube.com/watch?v=2-qHo7YT4w8
+- https://www.youtube.com/watch?v=4RL-m4qRtPU
+- https://www.youtube.com/watch?v=dCU7N-Oh3jg
+- https://www.youtube.com/watch?v=-h0IpjnByfs
+- https://www.youtube.com/watch?v=jlc7Ahp8Iqg
+- https://www.youtube.com/watch?v=OMOGaugKpzs
+- https://youtu.be/1wak8iBWIJI
+- https://youtu.be/cc1tX1t_bLg
+- https://youtu.be/GCTyFp0PpHE
+- https://youtu.be/H0oF3fAiqI4
+- https://youtu.be/l6GjU8fm8sM
+- https://youtu.be/lQegMA_kY9Y
+- https://youtu.be/ujmtS7X2F9A
+- https://youtu.be/xGZ0X5eA2IA
+- http://sys.stdin.read
+- http://System.IO|System.IO
+- http://the.earth.li/~sgtatham/putty/0.53b/htmldoc/Chapter3.html
+- http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/
+- http://threat.tevora.com/lay-of-the-land-with-bloodhound/amp/
+- http://toi.in/pCn7ub
+- http://tonemaker.py
+- http://turbochaos.blogspot.com/2013/09/linux-rootkits-101-1-of-3.html
+- http://www.amanhardikar.com/mindmaps/Practice.html
+- http://www.baltimoresun.com/news/maryland/crime/bs-md-ci-911-hacked-20180327-story.html
+- http://www.blackroomsec.com/updated-hacking-challenge-site-links/
+- http://www.blackwasp.co.uk/Articles.aspx
+- http://www.danielbohannon.com/blog-1/2017/12/2/the-invoke-cradlecrafter-overview?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=85c97931a698418fb2b015e28ebb0f27&amp;fl=4&amp;uid=912859174060609538&amp;nid=244+272699400
+- http://www.hackingarticles.in/penetration-testing/
+- http://www.irongeek.com/i.php?page=videos/grrcon2017/ghast07-morphing-to-legitimate-behavior-attack-patterns-dave-kennedy
+- http://www.py2exe.org/index.cgi/Tutorial
+- http://www.reddit.com/r/outside|www.reddit.com/r/outside
+- http://www.righto.com/2018/03/reading-vga-monitors-configuration-data.html
+- http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+- http://yalu.qwertyoruiop.com/y7.txt
