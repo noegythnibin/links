@@ -1,7 +1,7 @@
 # links
 
-http://apne.ws/mRRqXpC
-http://astrogrep.sourceforge.net/screenshots/
+- http://apne.ws/mRRqXpC
+- http://astrogrep.sourceforge.net/screenshots/
 http://cdn.oreilly.com/oreilly/booksamplers/9781449320683_sampler.pdf
 http://c-faq.com/
 http://comodo.com
